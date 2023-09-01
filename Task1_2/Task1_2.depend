@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691954025 source:d:\projects\mia elec training\task1_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
